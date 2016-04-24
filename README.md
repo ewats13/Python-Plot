@@ -9,3 +9,5 @@ The data in the output text file is formatted line by line as follows: <br />
 <time>, <thumb sensor>, <index sensor>, <middle finger sensor>, <ring finger sensor>, <pinky sensor>
 ```
 This python program opens a specified text file, parses the values in an organized manner, and plots them with Matplotlib's Pyplot.
+
+A screenshot of the Pyplot interface created is provided: "Pyplot_Interface.png"
