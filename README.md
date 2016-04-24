@@ -6,6 +6,6 @@ The robot's control system was written in Arduino IDE and outputs the time elaps
 
 The data in the output text file is formatted line by line as follows: <br />  
 ```
-time, thumb sensor, index sensor, middle finger sensor, ring finger sensor, pinky sensor  <br />
+time, thumb sensor, index sensor, middle finger sensor, ring finger sensor, pinky sensor
 ```
 This python program opens a specified text file, parses the values in an organized manner, and plots them with Matplotlib's Pyplot.
